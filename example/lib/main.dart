@@ -108,12 +108,7 @@ class Button extends StatefulWidget {
 class _ButtonState extends State<Button> {
   @override
   Widget build(BuildContext context) {
-    return RaisedButton(
-      color: Colors.white,
-      shape: RoundedRectangleBorder(
-        side: BorderSide(),
-        borderRadius: BorderRadius.circular(20),
-      ),
+    return ElevatedButton(
       onPressed: widget.onPressed,
       child: widget.child,
     );
