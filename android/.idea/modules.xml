@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dev.cruv.ringtone_player.ringtone_player.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ringtone_player.iml" filepath="$PROJECT_DIR$/.idea/modules/ringtone_player.iml" />
     </modules>
   </component>
